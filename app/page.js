@@ -1,4 +1,4 @@
-import Attractions from './components/Attractions';
+import Attractions from "@/components/Attractions";
 
 export default function Home() {
   return (
